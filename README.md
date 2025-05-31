@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://levy.vercel.app/" target="_blank">Levy</a>
+  <a href="https://levi-pi.vercel.app/" target="_blank">Levy</a>
 </h2>
 
 
@@ -23,7 +23,7 @@ You can fork this repo to modify and make changes of your own. Thanks!
 
 ## Built With
 
-My personal portfolio <a href="https://levy.vercel.app/" target="_blank">levy</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://levi-pi.vercel.app/" target="_blank">levy</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
