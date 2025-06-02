@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I develope a passion for programming at the age 13 and have since continually advanced my 
+              I developed a passion for programming at the age 13 and have since continually advanced my 
               skill in computing.🤷‍♂️
               <br />
               <br />I am fluent in classics like
