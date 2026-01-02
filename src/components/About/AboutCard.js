@@ -11,13 +11,13 @@ function AboutCard() {
             Hello again, I am <span className="purple">Levi Coc </span>
             from <span className="purple"> Maya Mopan Village, Stann Creek Belize.</span>
             <br />
-            I am currently employed as a Software Developer | Headend Entery Level Technician.
+            I am currently employed as a Database Developer at LeadVenture. 
             <br />
             I hold Bachelor's Degree (BINT) in Computer Science at
             University of Belize.
             <br />
             <br />
-            In addition to my passion for a Software Developer, I enjoy engaging in various activities such
+            In addition to my passion for a Developer, I enjoy engaging in various activities such
             as: 
           </p>
           <ul>
