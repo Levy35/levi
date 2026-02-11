@@ -17,7 +17,7 @@ function Footer() {
           <h3>Designed and Developed by LEVI COC</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} LC</h3>
+          <h3>^..^ © {year} LC</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/levi-coc-8b3a40237/"
+                href="https://www.linkedin.com/in/levi-coc-a73759393/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
