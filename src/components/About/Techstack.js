@@ -1,6 +1,8 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import { CgCPlusPlus } from "react-icons/cg";
+import { SiMicrosoftsqlserver } from "react-icons/si";
+
 import {
   DiJavascript1,
   DiReact,
@@ -63,6 +65,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJava />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiMicrosoftsqlserver />
       </Col>
     </Row>
   );
