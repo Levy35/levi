@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://levi-pi.vercel.app/" target="_blank">Levy</a>
+  <a href="https://levicoc.vercel.app/" target="_blank">Levy</a>
 </h2>
 
 
