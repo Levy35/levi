@@ -17,7 +17,7 @@ function AboutCard() {
             University of Belize.
             <br />
             <br />
-            In addition to my passion for a Developer, I enjoy engaging in various activities such
+            In addition to my passion as a Developer, I enjoy engaging in various activities such
             as: 
           </p>
           <ul>
@@ -31,7 +31,7 @@ function AboutCard() {
               <ImPointRight /> Travelling
             </li>
             <li className="about-activity">
-              <ImPointRight /> Being Alone
+              <ImPointRight /> Having Fun With My Dog
             </li>
           </ul>
 
